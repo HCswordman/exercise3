@@ -4,21 +4,14 @@
   "description": "test",
   "main": "index.js",
   "scripts": {
+    "init": "karma init",
     "test": "karma start"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/FE-star/exercise3.git"
   },
   "keywords": [
     "test"
   ],
   "author": "Daniel Yang",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/FE-star/exercise3/issues"
-  },
-  "homepage": "https://github.com/FE-star/exercise3#readme",
   "devDependencies": {
     "karma": "^1.7.0",
     "karma-chrome-launcher": "^2.2.0",
